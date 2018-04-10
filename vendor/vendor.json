@@ -1,0 +1,55 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "kFFJlJAcbDoA7P8SXNmwsblGSTg=",
+			"path": "github.com/cybergarage/go-net-upnp/net/upnp",
+			"revision": "557828fc4eefef2003a037f13df72b40f840f5fb",
+			"revisionTime": "2015-07-24T04:02:07Z"
+		},
+		{
+			"checksumSHA1": "5UEIhFy4gaOincd45PfvYKl9QV4=",
+			"path": "github.com/cybergarage/go-net-upnp/net/upnp/control",
+			"revision": "557828fc4eefef2003a037f13df72b40f840f5fb",
+			"revisionTime": "2015-07-24T04:02:07Z"
+		},
+		{
+			"checksumSHA1": "8UwpBtYGgVmZ2mL980IgS3VFwtk=",
+			"path": "github.com/cybergarage/go-net-upnp/net/upnp/http",
+			"revision": "557828fc4eefef2003a037f13df72b40f840f5fb",
+			"revisionTime": "2015-07-24T04:02:07Z"
+		},
+		{
+			"checksumSHA1": "8+ElTQFTdSUHcrHC+QavfY3RCyM=",
+			"path": "github.com/cybergarage/go-net-upnp/net/upnp/log",
+			"revision": "557828fc4eefef2003a037f13df72b40f840f5fb",
+			"revisionTime": "2015-07-24T04:02:07Z"
+		},
+		{
+			"checksumSHA1": "/ZnCpaBXROn843LX5yvAE4HXyWU=",
+			"path": "github.com/cybergarage/go-net-upnp/net/upnp/ssdp",
+			"revision": "557828fc4eefef2003a037f13df72b40f840f5fb",
+			"revisionTime": "2015-07-24T04:02:07Z"
+		},
+		{
+			"checksumSHA1": "EzZrVzhJGNxNsypnHYYICJXLJLA=",
+			"path": "github.com/cybergarage/go-net-upnp/net/upnp/util",
+			"revision": "557828fc4eefef2003a037f13df72b40f840f5fb",
+			"revisionTime": "2015-07-24T04:02:07Z"
+		},
+		{
+			"checksumSHA1": "wzvZ26B+DXEXrUhgQOS1h4HhaBE=",
+			"path": "github.com/deniswernert/go-fstab",
+			"revision": "eb4090f26517e619566a715761f32d9c281754b1",
+			"revisionTime": "2014-12-04T15:29:52Z"
+		},
+		{
+			"checksumSHA1": "UXD6iorzeLXDBmLaOGYsAJ/Ls3w=",
+			"path": "github.com/mattn/go-sqlite3",
+			"revision": "d896508f87298565da02ed92730e7065c3de10b8",
+			"revisionTime": "2018-04-04T14:27:34Z"
+		}
+	],
+	"rootPath": "ubeybox"
+}

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<specVersion>
+		<major>1</major> 
+		<minor>0</minor> 
+	</specVersion>
+	<device>
+		<deviceType>urn:schemas-upnp-org:device:ubeybox:1</deviceType>
+		<friendlyName>YQTC Ubeybox Device</friendlyName>
+		<manufacturer>YQTC company</manufacturer>
+		<manufacturerURL>https://www.yqtc.co</manufacturerURL>
+		<modelDescription>YQTC Ubeybox Device</modelDescription>
+		<modelName>Box</modelName>
+		<modelNumber>1.0</modelNumber>
+		<presentationURL>https://www.yqtc.co</presentationURL>
+	</device>
+</root>
